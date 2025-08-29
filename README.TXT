@@ -9,7 +9,7 @@ I make square green
 I make triangle wide 155px
 I move triangle up
 I make square small and black
-I wouldnt really change much due to how basic the code is and the fact i cant make all to efficient.
+I woul didnt change much due to the primitive nature of BlueJ being unable to make faster.
  
 
 
